@@ -1,0 +1,14 @@
+{
+"name":"cover",
+"description":["a thing that lies on, over, or around something, ",
+               "especially in order to protect or conceal it"],
+"is":{
+    "typeof":"barrier",
+    "constraints":[something_exists+madeof_matter
+         {"object":["universe","space"],
+          "attribute":"dimensions",
+          "constraint": "= 3"
+         }
+    ]
+}
+}

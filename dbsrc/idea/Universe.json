@@ -1,0 +1,13 @@
+{
+"name":"Universe",
+"description":["our universe"],
+"is":{
+    "instanceof":"universe",
+    "constraints":[
+         {"object":["universe","space"],
+          "attribute":"dimensions",
+          "constraint": "= 3"
+         }
+    ]
+}
+}
